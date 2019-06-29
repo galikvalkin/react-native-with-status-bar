@@ -1,0 +1,27 @@
+{
+  "name": "react-native-with-status-bar",
+  "description": "React Native StatusBar supporting custom handlers",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/galikvalkin/react-native-with-status-bar.git"
+  },
+  "nativePackage": false,
+  "author": "Valentine Galkin",
+  "contributors": [],
+  "keywords": [
+    "react-native",
+    "react-native-with-status-bar",
+    "react",
+    "statusbar"
+  ],
+  "dependencies": {
+    "react-native-iphone-x-helper": "https://github.com/galikvalkin/react-native-iphone-x-helper.git",
+    "react-native-safe-area-view": "0.14.4"
+  },
+  "bugs": {
+    "url": "https://github.com/galikvalkin/react-native-with-status-bar/issues"
+  }
+}
